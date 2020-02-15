@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/primaryblue_dark"
     android:padding="24dp"
-    tools:context="com.lifeistech.factory.caldim.MainActivity">
+    tools:context="com.kamiture.kamui.caldim2.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
